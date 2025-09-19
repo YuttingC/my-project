@@ -1,0 +1,4 @@
+# Some file extensions and directorys I want git to ignore
+* .csv
+data/
+secrets.txt
